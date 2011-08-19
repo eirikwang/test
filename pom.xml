@@ -23,7 +23,6 @@
   <build>
     <finalName>test</finalName>
 
-  <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
